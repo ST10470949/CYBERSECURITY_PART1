@@ -82,3 +82,23 @@ Features:
 - Identity Theft
 - Social Engineering
 - Two-Factor Authentication
+
+## 🧠 Advanced Feature: Fuzzy Matching
+
+The system uses a custom implementation of:
+
+
+LevenshteinDistance()
+
+
+This allows the chatbot to:
+- Detect spelling mistakes
+- Suggest possible corrections
+- Ask the user to confirm suggested topics
+
+Example:
+If user types:
+phising
+
+System suggests:
+Did you mean "phishing"?
