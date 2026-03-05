@@ -18,3 +18,14 @@ The system includes:
 - Fuzzy matching for misspellings
 - External extended-topic chatbot module
 - Data persistence using file storage
+
+## 🎯 Project Objectives
+
+The main objectives of this project are:
+
+- To demonstrate structured C# programming
+- To implement user input validation
+- To apply file handling for persistence
+- To implement modular programming principles
+- To integrate fuzzy matching using Levenshtein Distance
+- To simulate a professional cybersecurity assistant
