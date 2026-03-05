@@ -19,7 +19,7 @@ The system includes:
 - External extended-topic chatbot module
 - Data persistence using file storage
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 The main objectives of this project are:
 
@@ -30,7 +30,7 @@ The main objectives of this project are:
 - To integrate fuzzy matching using Levenshtein Distance
 - To simulate a professional cybersecurity assistant
 
-## 🧱 System Architecture
+## System Architecture
 
 The application is structured into the following major components:
 
@@ -83,7 +83,7 @@ Features:
 - Social Engineering
 - Two-Factor Authentication
 
-## 🧠 Advanced Feature: Fuzzy Matching
+## Advanced Feature: Fuzzy Matching
 
 The system uses a custom implementation of:
 
@@ -103,7 +103,7 @@ phising
 System suggests:
 Did you mean "phishing"?
 
-## 🔐 Data Persistence
+## Data Persistence
 User visit tracking is implemented using file-based storage:
 Format:
 
@@ -117,7 +117,7 @@ This demonstrates:
 - Exception handling
 - State persistence
 
-## 🎨 UI/UX Features
+## UI/UX Features
 
 - Colored console interface
 - ASCII art branding
@@ -126,13 +126,13 @@ This demonstrates:
 - Input validation
 - Error handling
 
-## 📂 Project Structure
+## Project Structure
 - Program.cs
 - cyber.wav (optional)
 - user_counts.txt (auto-generated)
 - README.md
 
-## 🚀 GitHub & Version Control
+## GitHub & Version Control
 
 This project includes:
 
@@ -141,7 +141,7 @@ This project includes:
 - Logical development progression
 - Clean repository structure
 
-## 🧪 Future Improvements
+## Future Improvements
 
 - GUI Version (Windows Forms / WPF)
 - Database integration
@@ -149,14 +149,14 @@ This project includes:
 - Threat intelligence feed
 - Speech recognition
 
-## 👩‍💻 Author
+## Author
 
 - Student Name: Abongile Lathitha Manqana  
 - Student Number: ST10470949
 - Module: Programming 2A  
 - Module Code: PROG6221/w  
 
-## 🔒 Conclusion
+## Conclusion
 
 Cyber Times With Abo demonstrates practical application of:
 
