@@ -47,3 +47,25 @@ The application is structured into the following major components:
 User data is stored in:
 
 user_counts.txt
+
+### 3️⃣ Main Chat System
+- `StartChat()` – Primary menu loop
+- `DisplayMenu()` – User interface menu
+- `TypeText()` – Typing animation effect
+- `ShowError()` – Error handling messages
+
+---
+
+### 4️⃣ External Extended Chatbot
+Implemented as a nested static class:
+
+
+ExternalChatbot
+
+
+Features:
+- Separate extended topic menu
+- Keyword recognition
+- Multi-topic handling
+- Fuzzy spelling detection
+- Confirmation-based correction
