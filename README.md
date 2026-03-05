@@ -116,3 +116,12 @@ This demonstrates:
 - Dictionary usage
 - Exception handling
 - State persistence
+
+## 🎨 UI/UX Features
+
+- Colored console interface
+- ASCII art branding
+- Animated typing effect
+- Clean structured menus
+- Input validation
+- Error handling
