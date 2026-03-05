@@ -126,15 +126,6 @@ This demonstrates:
 - Input validation
 - Error handling
 
-## ▶️ How To Run
-
-1. Open in Visual Studio
-2. Build the solution
-3. Run the application
-4. Ensure `cyber.wav` is placed in the application directory (optional)
-
----
-
 ## 📂 Project Structure
 - Program.cs
 - cyber.wav (optional)
