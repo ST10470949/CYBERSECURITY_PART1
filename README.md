@@ -149,3 +149,11 @@ This project includes:
 - Clear commit messages
 - Logical development progression
 - Clean repository structure
+
+## 🧪 Future Improvements
+
+- GUI Version (Windows Forms / WPF)
+- Database integration
+- API integration
+- Threat intelligence feed
+- Speech recognition
