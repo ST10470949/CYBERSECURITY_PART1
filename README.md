@@ -29,3 +29,21 @@ The main objectives of this project are:
 - To implement modular programming principles
 - To integrate fuzzy matching using Levenshtein Distance
 - To simulate a professional cybersecurity assistant
+
+## 🧱 System Architecture
+
+The application is structured into the following major components:
+
+### 1️⃣ Startup System
+- `BootSequence()` – Simulated system initialization
+- `PlayVoiceGreeting()` – Plays optional WAV audio file
+- `DisplayLogo()` – Displays ASCII branding
+
+### 2️⃣ User Management
+- `AskUserName()` – Input validation and persistence
+- `LoadUserCounts()` – Reads stored visit counts
+- `SaveUserCounts()` – Writes updated visit counts
+
+User data is stored in:
+
+user_counts.txt
