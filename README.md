@@ -157,3 +157,10 @@ This project includes:
 - API integration
 - Threat intelligence feed
 - Speech recognition
+
+## 👩‍💻 Author
+
+Student Name: Abongile Lathitha Manqana  
+Student Number: ST10470949
+Module: Programming 2A  
+Module Code: PROG6221/w  
