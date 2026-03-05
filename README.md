@@ -136,7 +136,16 @@ This demonstrates:
 ---
 
 ## 📂 Project Structure
-Program.cs
-cyber.wav (optional)
-user_counts.txt (auto-generated)
-README.md
+- Program.cs
+- cyber.wav (optional)
+- user_counts.txt (auto-generated)
+- README.md
+
+## 🚀 GitHub & Version Control
+
+This project includes:
+
+- Structured commit history
+- Clear commit messages
+- Logical development progression
+- Clean repository structure
