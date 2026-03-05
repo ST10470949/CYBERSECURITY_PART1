@@ -69,3 +69,16 @@ Features:
 - Multi-topic handling
 - Fuzzy spelling detection
 - Confirmation-based correction
+
+### 5️⃣ Cybersecurity Topics Covered
+
+- Password Security
+- Phishing Awareness
+- Malware
+- Ransomware
+- Public Wi-Fi Risks
+- Safe Browsing
+- Software Updates
+- Identity Theft
+- Social Engineering
+- Two-Factor Authentication
