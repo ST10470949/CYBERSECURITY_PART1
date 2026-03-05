@@ -102,3 +102,17 @@ phising
 
 System suggests:
 Did you mean "phishing"?
+
+## 🔐 Data Persistence
+User visit tracking is implemented using file-based storage:
+Format:
+
+Name:VisitCount
+If a returning user is detected:
+Hey, welcome back [Name].
+
+This demonstrates:
+- File I/O
+- Dictionary usage
+- Exception handling
+- State persistence
