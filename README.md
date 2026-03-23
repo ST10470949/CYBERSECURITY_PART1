@@ -131,6 +131,8 @@ This demonstrates:
 - cyber.wav (optional)
 - user_counts.txt (auto-generated)
 - README.md
+- User.cs
+- Chatbot.cs
 
 ## GitHub & Version Control
 
