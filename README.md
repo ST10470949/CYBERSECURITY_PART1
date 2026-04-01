@@ -128,7 +128,7 @@ This demonstrates:
 
 ## Project Structure
 - Program.cs
-- cyber.wav (optional)
+- Abos.wav (optional)
 - user_counts.txt (auto-generated)
 - README.md
 - User.cs
