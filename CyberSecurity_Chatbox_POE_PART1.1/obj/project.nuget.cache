@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "7+EdduEBkng=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abong\\source\\repos\\CyberSecurity_Chatbox_POE_PART1.1\\CyberSecurity_Chatbox_POE_PART1.1\\CyberSecurity_Chatbox_POE_PART1.1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abong\\.nuget\\packages\\naudio\\2.1.0\\naudio.2.1.0.nupkg.sha512",
+    "C:\\Users\\abong\\.nuget\\packages\\naudio.asio\\2.1.0\\naudio.asio.2.1.0.nupkg.sha512",
+    "C:\\Users\\abong\\.nuget\\packages\\naudio.core\\2.1.0\\naudio.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\abong\\.nuget\\packages\\naudio.midi\\2.1.0\\naudio.midi.2.1.0.nupkg.sha512",
+    "C:\\Users\\abong\\.nuget\\packages\\naudio.wasapi\\2.1.0\\naudio.wasapi.2.1.0.nupkg.sha512",
+    "C:\\Users\\abong\\.nuget\\packages\\naudio.winmm\\2.1.0\\naudio.winmm.2.1.0.nupkg.sha512",
+    "C:\\Users\\abong\\.nuget\\packages\\system.windows.extensions\\8.0.0\\system.windows.extensions.8.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json.",
+      "projectPath": "C:\\Users\\abong\\source\\repos\\CyberSecurity_Chatbox_POE_PART1.1\\CyberSecurity_Chatbox_POE_PART1.1\\CyberSecurity_Chatbox_POE_PART1.1.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\abong\\source\\repos\\CyberSecurity_Chatbox_POE_PART1.1\\CyberSecurity_Chatbox_POE_PART1.1\\CyberSecurity_Chatbox_POE_PART1.1.csproj",
+      "targetGraphs": []
+    }
+  ]
+}
